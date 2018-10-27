@@ -1,0 +1,36 @@
+
+h3{
+    color:purple;
+}
+img{
+    height:25%;
+    width:25%;
+}
+p{
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 150%;
+    
+}
+div.hobbies{
+color: rgb(253, 16, 16);
+}
+#aspirations{
+    color:rgba(255, 17, 0, 0.911);
+}
+body{
+    background-color:aqua; 
+}
+div.btn btn-primary{
+    background-position: bottom;
+}
+.modal{
+    background-color: aquamarine;
+    height: fit-content;
+    width: fit-content;
+    box-sizing: border-box;
+}
+#container{
+    width: fit-content;
+    height: fit-content;
+}
